@@ -4,6 +4,12 @@ import { inventario } from "../utils/medicamentos"
 
 export function Home(){
 
+    //A LOS ARREGLOS LOS PUEDO MANIPULAR
+    //PARA CONTROLAR QUE INFORMACION VOY A PRESENTAR
+    
+    //1. FUNCION DE FILTRADO DE DATOS
+    //CONDICION DE FILTRADO (PREGUNTA (SI/NO))
+    inventario
 
 
 //zona de manipulacion de datos
